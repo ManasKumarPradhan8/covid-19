@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite_manas" >
+  <test name="Test_manas">
+    <classes>
+      <class name="Testng.Testcase_one"/>
+      <class name="Testng.Testcase_two"/>
+      <class name="Testng.Testcase_three"/>
+    </classes>
+  </test> <!-- Test_manas -->
+</suite> <!-- suite_manas -->
